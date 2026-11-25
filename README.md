@@ -122,5 +122,6 @@ A continuación se detalla cada una de las fases representadas:
 
 
 * **`TABLA RESEÑA`**: Registra las valoraciones, puntuaciones y comentarios realizados por los miembros sobre las recetas.
-<img width="3882" height="2520" alt="EJERCICIO 14-FASES DE NORMALIZACION drawio" src="https://github.com/user-attachments/assets/4c0b4b03-654e-479b-bc7f-80e4dd34a8ac" />
+<img width="3882" height="2522" alt="EJERCICIO 14-FASES DE NORMALIZACION drawio" src="https://github.com/user-attachments/assets/a5fc7c2f-29b1-47d7-b5f7-784f8faf6182" />
+
 
